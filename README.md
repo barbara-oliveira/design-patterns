@@ -4,5 +4,5 @@ Padrões não se refletem em pedaços de código ou componentes que são reutili
 
 ## Sumário
 
-* [Padrão Strategy](https://github.com/barbara-oliveira/design-patterns/tree/master/DesignPatterns/src/com/br/exemplo/strategy)
-* [Padrão Null Object](https://github.com/barbara-oliveira/design-patterns/tree/master/DesignPatterns/src/com/br/exemplo/nullobject)
+* [Strategy](https://github.com/barbara-oliveira/design-patterns/tree/master/DesignPatterns/src/com/br/exemplo/strategy)
+* [Null Object](https://github.com/barbara-oliveira/design-patterns/tree/master/DesignPatterns/src/com/br/exemplo/nullobject)
