@@ -7,4 +7,4 @@ Padrões não se refletem em pedaços de código ou componentes que são reutili
 * [Strategy](https://github.com/barbara-oliveira/design-patterns/tree/master/DesignPatterns/src/com/br/exemplo/strategy)
 * [Null Object](https://github.com/barbara-oliveira/design-patterns/tree/master/DesignPatterns/src/com/br/exemplo/nullobject)
 * [Factory Method](https://github.com/barbara-oliveira/design-patterns/tree/master/DesignPatterns/src/com/br/exemplo/factorymethod)
-
+* [Template method](https://github.com/barbara-oliveira/design-patterns/tree/master/DesignPatterns/src/com/br/exemplo/templatemethod)
